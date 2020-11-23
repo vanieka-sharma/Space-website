@@ -1,2 +1,2 @@
 # Space-website
-A sample website for booking a ride for space.
+A sample website of space tourism, you can book a ride to space.
